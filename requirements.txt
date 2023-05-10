@@ -3,3 +3,4 @@ Cython
 transformers
 tensorboard
 pypinyin
+scipy
